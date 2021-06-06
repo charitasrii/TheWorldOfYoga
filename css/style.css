@@ -59,5 +59,13 @@ ul li.active a{
 .title h1{
     color: #fff;
     font-size: 70px;
+}
 
+.sub-title{
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+    color: #fff;
+    font-size: 25px;
 }
